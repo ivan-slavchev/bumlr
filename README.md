@@ -1,2 +1,2 @@
-# bumlr
-bottom-up multi-level representation
+# BUMLR
+Bottom-Up Multi-Level Representation
